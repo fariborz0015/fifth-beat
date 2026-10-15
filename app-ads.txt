@@ -1,0 +1,3 @@
+# Fifth Beat app-ads.txt
+# Replace the line below with your AdMob publisher ID (AdMob > Settings > Account information), then AdMob crawls it within about 24 hours.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
